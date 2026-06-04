@@ -117,9 +117,8 @@ int main(void)
 
   while (1)
   {
-	  printf("MAHALINGA JEYANTH V\n");
+	  printf("B.TECH(IT) MAHALINGA JEYANTH V\n");
      printf("212224220057\n");
-     printf("B.TECH(IT)");
      HAL_Delay(500);
   }
 }
